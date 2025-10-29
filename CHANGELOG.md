@@ -11,9 +11,10 @@
 - Verified no further conflicts remained.
 
 ### Phase 4
-- Used fetch 1 time.
-- Used pull 1 time.
-- Used stash 1 time.
-- Used cherry-pick 1 time.
-- Used rebase 1 time.
+- Used fetch 1 time
+- Used pull 1 time
+- Used stash 1 time
+- Used cherry-pick 1 time
+- Used rebase 1 time
+
 
