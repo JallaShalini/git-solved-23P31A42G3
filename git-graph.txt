@@ -1,0 +1,52 @@
+* 9e91c31 (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+*   b1019b7 Merge branch 'main' of https://github.com/JallaShalini/git-solved-23P31A42G3
+|\  
+| *   ee9ea60 Merge pull request #4 from JallaShalini/feature/another-feature
+| |\  
+| | * ad4ddab (origin/feature/another-feature) Delete CHANGELOG.md
+| | * 890eb7b (feature/another-feature) docs: Document reset and revert usage
+| | * e1774be Bad commit
+| | * 22c69a4 docs: Document Phase 4 Git commands usage
+| | * ee76928 docs: Document Phase 4 Git commands usage
+| | * 01cb2f7 docs: Documented rebase usage
+| | * cf616de feat: Add test feature
+| * |   5d80824 Merge pull request #3 from JallaShalini/feature/documentation
+| |\ \  
+| | * | 0beaf06 (origin/feature/documentation) Delete CHANGELOG.md
+| | * | 5a9cf03 (feature/documentation) docs: add GIT_JOURNEY.md for Git Mastery Challenge
+| * | | 92bd81d Delete CHANGELOG.md
+| * | |   277f350 Merge pull request #2 from JallaShalini/feature/another-feature
+| |\ \ \  
+| | * | | 9bba237 feat: Add test feature
+| * | | |   5447e50 Merge pull request #1 from JallaShalini/feature/new-feature
+| |\ \ \ \  
+| | |/ / /  
+| |/| | |   
+| | * | | aafab2f (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+* | | | | 4674b02 chore: remove unnecessary CHANGELOG.md file
+| |_|/ /  
+|/| | |   
+* | | | 2df54d9 docs: Document Git tags usage
+| |_|/  
+|/| |   
+* | | 5422c09 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+|/ /  
+* | 34d1899 docs: Update README
+* | 509dfcd docs: Update CHANGELOG with Phase 4 documentation
+* | 21201d3 feat: Add new feature
+* | 9eda8d9 docs: Add FAQ section
+|/  
+* a6d1e3c Resolved instructor merge conflicts: kept production configs, retained checkpoints, updated README
+* b1c14fa Resolved conflicts in README.md; kept production code, commented experimental features
+*   8a8e726 Merge branch 'conflict-simulator'
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   d65317f Resolved all merge conflicts between main and dev
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 2467732 Add Checkpoint1.png (Checkpoint 1) — git log graph screenshot
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
