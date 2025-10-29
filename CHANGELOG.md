@@ -16,5 +16,8 @@
 - Used stash 1 time
 - Used cherry-pick 1 time
 - Used rebase 1 time
+- Used reset 3 times (soft, mixed, hard)
+- Used revert 1 time
+
 
 
