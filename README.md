@@ -48,13 +48,11 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Quick Start
 
 ### Production Mode
+
 ```bash
 export DEPLOY_ENV=production
 ./scripts/deploy.sh
 ## Quick Start - Advanced Mode
-    ```bash
-    # Install AI dependencies
-  pip install tensorflow keras
 ```bash
 # Install AI dependencies
 pip install tensorflow keras
