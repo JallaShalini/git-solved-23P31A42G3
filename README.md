@@ -41,7 +41,6 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ---
 
 ### Legacy Features
-- Instructor/conflict-simulator
 
   - Automated deployment scripts
   - Real-time monitoring
@@ -112,14 +111,3 @@ See the /docs folder and /docs/ai-integration.md for detailed information
 ### Warning
 
 This is an experimental branch. Use at your own risk!
-
----
-
-### License
-
-MIT License — instructor/conflict-simulator
-
----
-
-### FAQ
-Update
