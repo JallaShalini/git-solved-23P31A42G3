@@ -49,19 +49,18 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ### Production Mode
 
-  ```bash
-  export DEPLOY_ENV=production
-  ./scripts/deploy.sh
-  ## Quick Start - Advanced Mode
-  ```bash
-  # Install AI dependencies
+    export DEPLOY_ENV=production
+    ./scripts/deploy.sh
+    ## Quick Start - Advanced Mode
+    ```bash
+    # Install AI dependencies
   pip install tensorflow keras
+    ```bash
+    # Initialize AI models
+    ./scripts/init-ai-models.sh
 
-  # Initialize AI models
-  ./scripts/init-ai-models.sh
-
-  # Start with AI-enhanced mode
-  npm run start:ai
+    # Start with AI-enhanced mode
+    npm run start:ai
 
 ## Quick Start - Standard Mode
 
